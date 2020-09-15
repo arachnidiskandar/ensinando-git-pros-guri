@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 haushuashuashusaushau
+=======
+chupameupaukue
+>>>>>>> 8c354b7b07d31faae419b6f8aa4a2b5836aaad1d
